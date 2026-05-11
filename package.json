@@ -1,0 +1,15 @@
+{
+  "name": "ajoemca-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot AJOEMCA",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.0",
+    "express": "^4.18.2"
+  }
+}
